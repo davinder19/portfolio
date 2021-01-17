@@ -1,0 +1,15 @@
+{
+    "name": "DS-Protfolio",
+    "short_name": "D-DEV",
+    "start_url": "/",
+    "disply":"standalone",
+    "background_color": "#000",
+    "description": "D-DEV Portfolio",
+    "icon":[
+        {
+            "src":"use-logo1.png",
+            "size":"192x192",
+            "type":"png"
+        }
+    ]
+}
